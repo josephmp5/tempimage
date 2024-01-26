@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087797528615",
+    "project_id": "carpark-cd8f3",
+    "storage_bucket": "carpark-cd8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087797528615:android:d97fb956f8ed1ea9aca602",
+        "android_client_info": {
+          "package_name": "com.example.fleetingframes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlxT2EppSBD2oiGOnWfZOrkl4Bh0Vdgfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
